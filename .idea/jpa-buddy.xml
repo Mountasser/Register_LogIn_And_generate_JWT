@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JpaBuddyIdeaProjectConfig" ddlActionDbType="mysql">
+    <option name="defaultUnitInitialized" value="true" />
+    <option name="sourceDbValue" value="fed8cc52-9032-40c8-8f6d-3eac50d321cc" />
+    <option name="sourceModelValue" value="Default" />
+    <option name="targetDbValue" value="fed8cc52-9032-40c8-8f6d-3eac50d321cc" />
+    <option name="snapshotDbValue" value="fed8cc52-9032-40c8-8f6d-3eac50d321cc" />
+    <option name="snapshotDirValue" value="$PROJECT_DIR$/src/main/resources/db/changelog/2022/04" />
+    <option name="updateChangeLogPath" value="src/main/resources/db/changelog/main-changelog.xml" />
+    <option name="updateDbConnectionName" value="fed8cc52-9032-40c8-8f6d-3eac50d321cc" />
+  </component>
+</project>

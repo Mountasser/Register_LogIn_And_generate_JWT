@@ -1,0 +1,10 @@
+
+V	java:S125"<This block of commented-out lines of code should be removed.(³×˜ûÿÿÿÿ
+Q
+java:S1128"4Remove this unused import 'ma.khal.shop.model.User'.(ÆÈéä8×ÑÛ‚‚0
+j
+java:S1128"MRemove this unused import 'org.springframework.security.core.Authentication'.(ñıÓ“8ØÑÛ‚‚0
+x
+java:S1128"VRemove this unused import 'org.springframework.security.core.context.SecurityContext'.(ØıŞşÿÿÿÿ8ØÑÛ‚‚0
+y
+java:S1128"\Remove this unused import 'org.springframework.security.core.context.SecurityContextHolder'.(ŒÄæë8ØÑÛ‚‚0
